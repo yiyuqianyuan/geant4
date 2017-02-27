@@ -1,0 +1,3 @@
+/home/yb/work/geant4/model/build/CMakeFiles/rebuild_cache.dir
+/home/yb/work/geant4/model/build/CMakeFiles/edit_cache.dir
+/home/yb/work/geant4/model/build/CMakeFiles/model.dir
